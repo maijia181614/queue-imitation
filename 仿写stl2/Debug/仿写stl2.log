@@ -1,0 +1,31 @@
+﻿  仿写queue.cpp
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(25): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(33): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\deque.h(489): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\deque.h(486): note: 编译类 模板 成员函数“queueSTL::_deque_iterator<T,T &,T *,0> queueSTL::deque<T,queueSTL::alloc,0>::insert_aux(queueSTL::_deque_iterator<T,T &,T *,0>,const int &)”时
+          with
+          [
+              T=int
+          ]
+  c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\deque.h(266): note: 参见对正在编译的函数 模板 实例化“queueSTL::_deque_iterator<T,T &,T *,0> queueSTL::deque<T,queueSTL::alloc,0>::insert_aux(queueSTL::_deque_iterator<T,T &,T *,0>,const int &)”的引用
+          with
+          [
+              T=int
+          ]
+  c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(10): note: 参见对正在编译的类 模板 实例化“queueSTL::deque<int,queueSTL::alloc,0>”的引用
+c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\deque.h(350): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\deque.h(346): note: 编译类 模板 成员函数“queueSTL::_deque_iterator<T,T &,T *,0> queueSTL::deque<T,queueSTL::alloc,0>::erase(queueSTL::_deque_iterator<T,T &,T *,0>)”时
+          with
+          [
+              T=int
+          ]
+  c:\users\mjq\desktop\文件\数据结构期中\3\栈和队列\仿写stl2\仿写stl2\dequetest.h(38): note: 参见对正在编译的函数 模板 实例化“queueSTL::_deque_iterator<T,T &,T *,0> queueSTL::deque<T,queueSTL::alloc,0>::erase(queueSTL::_deque_iterator<T,T &,T *,0>)”的引用
+          with
+          [
+              T=int
+          ]
+  仿写stl2.vcxproj -> C:\Users\mjq\Desktop\文件\数据结构期中\3\栈和队列\仿写stl2\Debug\仿写stl2.exe
+  仿写stl2.vcxproj -> C:\Users\mjq\Desktop\文件\数据结构期中\3\栈和队列\仿写stl2\Debug\仿写stl2.pdb (Full PDB)
